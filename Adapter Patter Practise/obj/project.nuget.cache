@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tqONot+Rqr1u8dkHbRoxdXt+laHCVvHkspKilRkQ06JYGuKI0oZ/llkSpp/A6cnUNvlwYxrjSgkcuzXbd2PJlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hasan\\WPF Projects\\Adapter Patter Practise\\Adapter Patter Practise\\Adapter Patter Practise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hasan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hasan\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\hasan\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\hasan\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
